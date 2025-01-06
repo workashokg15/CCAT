@@ -13,4 +13,9 @@
 |Abhorrent|That makes you feel hate or disgust|
 |Repugnant|Intense disgust|
 |Antagonism|a feeling of hate and of being against somebody/something|
-|||
+|Marred|to harm or damage something good|
+|triumphant|feeling or showing great happiness because you have won or succeeded at something|
+|Fickle|always changing your mind or your feelings so you cannot be trusted|
+|Sextant|A doubly reflecting navigation instrument that measures the angular distance between two visible objects|
+|Satire|The use of humour to attack a person, an idea or behaviour that you think is bad or silly|
+
