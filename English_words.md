@@ -44,6 +44,9 @@
 |Slender|(used about a person or part of somebody’s body) thin in an attractive way|
 |Corpulent|someone who is very overweight|
 |Haste|speed in doing something, especially because you do not have enough time|
+|Satiate|Satisfied to full|
+|Stigma|Bad feeling about a disease etc, and the way of behaving|
+|Gravitate|move towards or be attracted to a person or thing.|
 |||
 
 
