@@ -75,7 +75,7 @@
 |bashful|shy overpowering|
 |Austere|Antonym for Extravagant|
 |Galvanizing|Antonym for Boring|
-|Ignominious|Synonym for Humiliating|
+|Ignominious|making you feel embarrassed, Synonym for Humiliating|
 |Squalid|very dirty, untidy and unpleasant|
 |Immaculate|very dirty, untidy and unpleasant|
 |Oust|to force somebody out of a job or position of power, especially in order to take his/her place|
