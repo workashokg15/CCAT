@@ -87,17 +87,17 @@
 |Eminent|celebrated, distinguished, famous, illustrious, noted, notorious, and renowned|
 |Loathe|to hate somebody/something|
 |Dislodge|to make somebody/something move from its correct fixed position|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Coif|style or arrange (someone's hair).|
+|Hovel|a house or room that is not fit to live in because it is dirty or in very bad condition|
+|Jibe|an insulting or mocking remark; a taunt.|
+|Iota|(used in negative sentences) a very small amount|
+|Inimical|harmful to something; making it difficult for something to happen or exist|
+|Arcane|known to very few people and therefore difficult to understand|
+|Plummet|to fall suddenly and quickly from a high level or position|
+|invigorate|to make somebody feel healthy, fresh and full of energy|
+|burpee|an exercise in which you quickly move from standing to a squat|
+|Abjure|to promise publicly or formally that you will give up or not accept a belief or a way of behaving|
+|Craven|contemptibly lacking in courage; cowardly.|
 |||
 |||
 |||
