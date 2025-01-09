@@ -1,5 +1,10 @@
 |Word|Meaning|
 |:----|:-------| 
+|Laconic|Using very few words|
+|Taciturn|reserved|
+|Succinct|reserved|
+|Compendious|reserved|
+|Verbose|expressed in more words than needed|
 |olfactory|connected with the sense of smell|
 |Obfuscation|To make something difficult to understand.Eg: Programming code is often obfuscated to protect intellectual property or trade secrets, and to prevent an attacker from reverse engineering a proprietary software program.|
 |Belied|means to fail to give a true impression|
