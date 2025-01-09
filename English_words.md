@@ -68,7 +68,7 @@
 |Gobsmacked|so surprised that you cannot speak|
 |Quotidian|Occuring everyday|
 |Omniscience|State of knowing everything|
-|Compendious|Presenting the essential facts|
+|Compendious|Presenting only the essential facts|
 |Discursive|Digressing from the subject to subject|
 |Predicament|an unpleasant and difficult situation that is hard to get out of|
 |Curtailment|the act of restricting or reducing something or cutting it short|
