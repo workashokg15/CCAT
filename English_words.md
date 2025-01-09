@@ -98,6 +98,13 @@
 |burpee|an exercise in which you quickly move from standing to a squat|
 |Abjure|to promise publicly or formally that you will give up or not accept a belief or a way of behaving|
 |Craven|contemptibly lacking in courage; cowardly.|
+|debase|to reduce the quality or value of something|
+|Actuary|a person whose job involves calculating insurance risks and payments for insurance companies by studying how frequently accidents, fires, deaths, etc. happen|
+|Barista|a person who serves in a coffee bar.|
+|||
+|||
+|||
+|||
 |||
 |||
 |||
