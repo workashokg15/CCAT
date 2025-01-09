@@ -83,6 +83,20 @@
 |Disparage|to talk about somebody/something in a critical way; to say that somebody/something is of little value or importance|
 |Erudition|Quality of having or showing great knowledge or learning or scholarship|
 |Guffaw|to laugh loudly, especially at something silly|
+|Illustrious|celebrated, distinguished, famous, eminent, noted, notorious, and renowned|
+|Eminent|celebrated, distinguished, famous, illustrious, noted, notorious, and renowned|
+|Loathe|to hate somebody/something|
+|Dislodge|to make somebody/something move from its correct fixed position|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 |||
 |||
 |||
