@@ -47,7 +47,27 @@
 |Satiate|Satisfied to full|
 |Stigma|Bad feeling about a disease etc, and the way of behaving|
 |Gravitate|move towards or be attracted to a person or thing.|
-|||
+|Helm|the part of a boat or ship that is used to guide it. The helm can be a handle or a wheel|
+|Feta|a white Greek cheese made from sheep's or goat's milk and cured in salt water|
+|Dearth|a lack of something; not enough of something|
+|Appeasement|giving people what they want to prevent them from harming you or being angry with you|
+|inimical|harmful to something; making it difficult for something to happen or exist|
+|Predicament|an unpleasant and difficult situation that is hard to get out of|
+|Adversity|difficulties or problems|
+|Affable|pleasant friendly and easy to talk to|
+|Digress|to stop talking or writing about the main subject under discussion and start talking or writing about another less important one|
+|Trepidation|a feeling of fear or anxiety that something may happen, especially something unpleasant|
+|Bridle|the leather straps that you put on a horse’s head so that you can control it when you are riding it|
+|Myopic|short sightness|
+|Gobsmacked|so surprised that you cannot speak|
+|Quotidian|Occuring everyday|
+|Omniscience|State of knowing everything|
+|Compendious|Presenting the essential facts|
+|Discursive|Digressing from the subject to subject|
+
+
+
+
 
 
 
