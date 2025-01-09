@@ -101,11 +101,12 @@
 |debase|to reduce the quality or value of something|
 |Actuary|a person whose job involves calculating insurance risks and payments for insurance companies by studying how frequently accidents, fires, deaths, etc. happen|
 |Barista|a person who serves in a coffee bar.|
-|||
-|||
-|||
-|||
-|||
+|Omniscience|state of possessing all the knowledge there|
+|ecosystem|a geographic area where plants, animals and other organisms, as well as weather and landscape, work together to form a bubble of life|
+|Congeal|to make a liquid solid|
+|Singe|to burn the surface of something slightly, usually by accident; to be burned in this way|
+|char|partially burn so as to blacken the surface.
+"a region charred by bush fires"|
 |||
 |||
 |||
