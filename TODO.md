@@ -1,1 +1,1 @@
-
+- 5 management words daily
