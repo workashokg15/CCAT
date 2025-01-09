@@ -64,6 +64,31 @@
 |Omniscience|State of knowing everything|
 |Compendious|Presenting the essential facts|
 |Discursive|Digressing from the subject to subject|
+|Predicament|an unpleasant and difficult situation that is hard to get out of|
+|Curtailment|the act of restricting or reducing something or cutting it short|
+|Entropy|the degree of disorder or uncertainty in a system|
+|Quantum|a very small quantity of electromagnetic energy|
+|Overbearing|unpleasantly overpowering|
+|Sequester|isolate or hide away.|
+|Nadir|the worst moment of a particular situation|
+|Terrestrial|connected with the planet Earth|
+|bashful|shy overpowering|
+|Austere|Antonym for Extravagant|
+|Galvanizing|Antonym for Boring|
+|Ignominious|Synonym for Humiliating|
+|Squalid|very dirty, untidy and unpleasant|
+|Immaculate|very dirty, untidy and unpleasant|
+|Oust|to force somebody out of a job or position of power, especially in order to take his/her place|
+|Conceited|Egoistic|
+|Disparage|to talk about somebody/something in a critical way; to say that somebody/something is of little value or importance|
+|Erudition|Quality of having or showing great knowledge or learning or scholarship|
+|Guffaw|to laugh loudly, especially at something silly|
+|||
+|||
+|||
+|||
+|||
+
 
 
 
