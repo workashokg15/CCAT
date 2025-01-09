@@ -105,8 +105,7 @@
 |ecosystem|a geographic area where plants, animals and other organisms, as well as weather and landscape, work together to form a bubble of life|
 |Congeal|to make a liquid solid|
 |Singe|to burn the surface of something slightly, usually by accident; to be burned in this way|
-|char|partially burn so as to blacken the surface.
-"a region charred by bush fires"|
+|char|partially burn so as to blacken the surface. eg : a region charred by bush fires|
 |||
 |||
 |||
