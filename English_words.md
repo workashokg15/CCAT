@@ -1,5 +1,16 @@
 |Word|Meaning|
 |:----|:-------| 
+|Abate|Reduce|
+|Sequester|Keeping seperate or isolated|
+|Cabal|Secret political clique|
+|Debase|Lower in quality or character|
+|||
+|Tedious|Tiresome, boring or dull|
+|Divulge|Disclose or reveal|
+|Repress|Hold back or restrain|
+|Exude|opposite of repress, not to hold back and to be open to things|
+|Foreboding|Feeling that something bad will happen|
+|Enthralling|Captivating, fascinating. providing a more engaging and interesting experience|
 |Brackish|Salty or distasteful|
 |Spiel|Lengthy and elaborate speech|
 |Bombastic|High sounding little meaning|
