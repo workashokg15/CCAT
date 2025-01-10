@@ -1,5 +1,23 @@
 |Word|Meaning|
 |:----|:-------| 
+|Brackish|Salty or distasteful|
+|Spiel|Lengthy and elaborate speech|
+|Bombastic|High sounding little meaning|
+|Diatribe|forceful and bitter verbal attack|
+|inane|silliy or lacking sense|
+|pitch|persuasive speech|
+|Stirring|Exciting or moing, often emotionally|
+|Platitude|A statement that is overused and has little impact because it lacks depth. It's a cliche or a trite expression|
+|Windfall|A windfall is an unexpected, often large, financial gain or profit.|
+|Blight|Something that causes harm or damage|
+|Indigent|Poorly or needy|
+|Novice|Lacks experience|
+|Benefactor|Someone who provides help|
+|ARbitrator|Who resolves disputes|
+|Prudence|Ability to discipline one self using reasons|
+|Guile|Cunning or deciet|
+|Deplorable|Disgraceful or shockingly bad|
+|Tranquil|Peaceful and calm|
 |Laconic|Using very few words|
 |Taciturn|reserved|
 |Succinct|reserved|
