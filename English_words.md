@@ -1,5 +1,9 @@
 |Word|Meaning|
 |:----|:-------| 
+|Inviolate|Remaining undamaged or broken|
+|Misadventures|Negative experiences|
+|Admonish|Giving a warning or mild Reprimand|
+|Reprimand|Formal expression of dissaproval|
 |Coercing|Persuading someone to do something by using force or threats|
 |Deluding|Deceiving|
 |Enticing|Attract by offering pleasure or advantage|
