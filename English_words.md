@@ -1,8 +1,34 @@
 |Word|Meaning|
 |:----|:-------| 
+|Incited|Urge someone to act in violent and unlawful way|
+|Shambles|State of total disorder|
+|Stifled|To restrain or stop oneself acting on(an emotion)|
+|Encumbered|Restrict or burden in such a way that free action or movement is difficult|
+|Fallout|Adverse results of a situation or action|
+|Undeterred|Not discouraged or restrained from acting|
+|Perturbed|Upset|
+|Flustered|Being agitated, confused|
+|Unraveled|To fail|
+|Satiated|Completely satisfied|
+|Perturbed|Disturbed or agitated|
+|Famished|Extremely hungry or starving|
+|Intrigued|Interested, fascinated, or curious about something|
+|Spurned|Rejected or turned away|
+|Gorged|having eaten excessively|
+|Endure|withstand hardship|
+|Resilence|withstand hardship|
+|Gusto|Enthusiasm or vigour|
+|Reform|change|
+|Might|Strength|
+|Adhere|stick firmly to something|
+|Gratified|to give somebody pleasure or satisfaction|
+|Scourge|a person or thing that caused lot of trouble or suffering|
+|Insinuated|to suggest something unpleasant in an indirect way|
+|Efficacy|the ability to produce the desired or intended result|
 |convalesced|to recover from illness or operation|
 |Conglomerated|number of different things, events , businesses grouped together, not suitable for the context|
 |Squandered|Waste something(especially money or time) in a reckless manner|
+|Rebuttal|Evidence or argument introduced to counter, disprove, or contradict the opposing party's evidence or argument|
 |Elucidate|To make things clear|
 |Reconcile|to make one account consistent with another|
 |Abate|Reduce|
