@@ -1,10 +1,14 @@
 |Word|Meaning|
 |:----|:-------| 
+|convalesced|to recover from illness or operation|
+|Conglomerated|number of different things, events , businesses grouped together, not suitable for the context|
+|Squandered|Waste something(especially money or time) in a reckless manner|
+|Elucidate|To make things clear|
+|Reconcile|to make one account consistent with another|
 |Abate|Reduce|
 |Sequester|Keeping seperate or isolated|
 |Cabal|Secret political clique|
 |Debase|Lower in quality or character|
-|||
 |Tedious|Tiresome, boring or dull|
 |Divulge|Disclose or reveal|
 |Repress|Hold back or restrain|
