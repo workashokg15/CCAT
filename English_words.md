@@ -1,5 +1,11 @@
 |Word|Meaning|
 |:----|:-------| 
+|Coercing|Persuading someone to do something by using force or threats|
+|Deluding|Deceiving|
+|Enticing|Attract by offering pleasure or advantage|
+|Approbatory|Expressing praise or approval|
+|Laudable|Deserving praise|
+|Asinine|Extremely stupid or foolish|
 |Incited|Urge someone to act in violent and unlawful way|
 |Shambles|State of total disorder|
 |Stifled|To restrain or stop oneself acting on(an emotion)|
